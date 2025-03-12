@@ -1,19 +1,70 @@
 html, body{
                margin: 0;
-               front-family: Arial, sans-serif;
+               front-family: segoe ui;
                background-color: #f4f4f4;
                color: #333;
 }
 header{
-               border: darkolivegreen solid thin;
+               border: rgb(89, 83, 112) solid thin;
                padding: 30px; 
                /*margin: 30px; */
-               background-color:  rgb(45, 60, 60);
+               background-color:  rgb(89, 83, 112);
 ;
 
 }
 h1{
-               color: rgb(199, 169, 129);
-            margin: 0;
-            padding: 20px 10px;
+               color: rgb(197, 189, 162);
+               margin: 0;
+               padding: 20px 10px;
+               text-align: center;
+               font-size: 30px;
+}
+h2,h3{
+               color: rgb(55, 23, 73);
+               margin: 0;
+               padding: 10px 10px;
+               text-align:center;
+               font-family: 'Times New Roman', Times, serif;
+}
+footer{
+               background-color: rgb(89, 83, 112);
+               padding: 20px 20px;
+               text-align: center;
+
+}
+address{
+               color: rgb(197, 189, 162);
+               font-style: normal;
+}
+li{
+               list-style: none;
+}
+nav ul{
+               padding: 0;
+               text-align: center;
+}
+nav ul li{
+               display: inline;
+               margin: 0 10px;
+}
+nav ul li a{
+               text-decoration: none;
+               color: rgb(15, 7, 240);
+               font-size: 20px;
+}
+footer h2{
+               color: rgb(197, 189, 162);
+               
+}
+a:link{
+               color:blue;
+}
+a:visited{
+               color: purple;
+}
+a:hover{
+               color: rgb(153, 81, 93);
+}
+a:active{
+               color: seagreen;
 }
