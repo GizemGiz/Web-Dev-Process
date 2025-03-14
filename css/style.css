@@ -50,22 +50,27 @@ footer{
 address{
                color: rgb(197, 189, 162);
                font-style: normal;
+               font-weight: bold;
 }
 li{
-               list-style: none;
+               list-style-type: none;
 }
 nav ul{
                padding: 0;
                text-align: center;
+               
 }
 nav ul li{
                display: inline;
                margin: 0 10px;
+               
 }
 nav ul li a{
                text-decoration: none;
                color: rgb(15, 7, 240);
-               font-size: 20px;
+               font-size: 25px;
+               font-weight: bold;
+               
 }
 footer h2{
                color: rgb(197, 189, 162);
@@ -73,6 +78,8 @@ footer h2{
 }
 a:link{
                color:rgb(10, 10, 10);
+               font-weight: bold;
+               text-align: center;
 }
 a:visited{
                color: purple;
