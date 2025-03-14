@@ -80,7 +80,7 @@ nav ul li a{
 }
 
 footer ul li a:link { /* changing only footer */
-               color: rgb(197, 189, 162); 
+               color: #D6D6D6; 
 }
            
 footer ul li a:hover {
@@ -88,7 +88,7 @@ footer ul li a:hover {
 }
            
 footer ul li a:visited {
-               color: #D3D3D3; 
+               color: #460a46; 
 }
 
 footer h2{
