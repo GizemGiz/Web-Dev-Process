@@ -47,7 +47,7 @@ footer{
 
 }
 address{
-               color: #D1D1D1;
+               color: rgb(197, 189, 162);
                font-weight: bold;
                background-color: rgb(89, 83, 112);
                padding: 10px;
@@ -78,6 +78,19 @@ nav ul li a{
                font-weight: bold;
                
 }
+
+footer ul li a:link { /* changing only footer */
+               color: rgb(197, 189, 162); 
+}
+           
+footer ul li a:hover {
+               color: #FFD700; 
+}
+           
+footer ul li a:visited {
+               color: #D3D3D3; 
+}
+
 footer h2{
                color: rgb(197, 189, 162);
                
