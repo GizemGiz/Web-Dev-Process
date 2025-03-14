@@ -1,16 +1,25 @@
 html, body{
                margin: 0;
                front-family: segoe ui;
-               background-color: #f4f4f4;
-               color: #333;
+               background-color: #dfd9d9;
+               color: #020202;
 }
-header{
+header {
                border: rgb(89, 83, 112) solid thin;
-               padding: 30px; 
-               /*margin: 30px; */
-               background-color:  rgb(89, 83, 112);
-;
-
+               padding: 30px;
+               background-color: rgb(89, 83, 112);
+               display: flex;
+               align-items: center;
+               justify-content: center; /* Centers the header content */
+               position: relative;
+}
+           
+header img {
+               position: absolute;
+               right: 10px; /* Moves the image to the right */
+               width: 100px;height: 100px;
+               margin: 10px;
+               border-radius: 50%;
 }
 h1{
                color: rgb(197, 189, 162);
@@ -25,6 +34,12 @@ h2,h3{
                padding: 10px 10px;
                text-align:center;
                font-family: 'Times New Roman', Times, serif;
+}
+/*h3 img{
+               display: ;
+} */
+main{
+               padding: 3px;
 }
 footer{
                background-color: rgb(89, 83, 112);
