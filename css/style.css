@@ -64,7 +64,7 @@ nav ul li{
 }
 nav ul li a{
                text-decoration: none;
-               color: rgb(15, 7, 240);
+               color: rgb(220, 220, 228);
                font-size: 20px;
 }
 footer h2{
@@ -72,7 +72,7 @@ footer h2{
                
 }
 a:link{
-               color:blue;
+               color:rgb(228, 228, 238);
 }
 a:visited{
                color: purple;
