@@ -29,7 +29,7 @@ h1{
                font-size: 30px;
 }
 h2,h3{
-               color: rgb(55, 23, 73);
+               color: rgb(111, 39, 153);
                margin: 0;
                padding: 10px 10px;
                text-align:center;
@@ -42,7 +42,7 @@ main{
                padding: 3px;
 }
 footer{
-               background-color: rgb(94, 87, 124);
+               background-color: rgb(89, 83, 112);
                padding: 20px 20px;
                text-align: center;
 
@@ -72,7 +72,7 @@ footer h2{
                
 }
 a:link{
-               color:rgb(189, 189, 204);
+               color:rgb(10, 10, 10);
 }
 a:visited{
                color: purple;
