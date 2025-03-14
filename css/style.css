@@ -48,9 +48,12 @@ footer{
 
 }
 address{
-               color: E3E3E3;
-               font-style: normal;
+               color: #D1D1D1;
                font-weight: bold;
+               background-color: rgb(89, 83, 112);
+               padding: 10px;
+               text-align: center;
+               font-size: 20px;
 }
 li{
                list-style-type: none;
@@ -61,11 +64,15 @@ nav ul{
                
 }
 nav ul li{
+               list-style: none;
+               color: blue;
+               background-color: #dfd9d9;
                display: inline;
                margin: 0 10px;
                
 }
 nav ul li a{
+               
                text-decoration: none;
                color: rgb(15, 7, 240);
                font-size: 25px;
