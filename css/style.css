@@ -42,7 +42,7 @@ main{
                padding: 3px;
 }
 footer{
-               background-color: rgb(60, 39, 141);
+               background-color: rgb(89, 83, 112);
                padding: 20px 20px;
                text-align: center;
 
@@ -64,7 +64,7 @@ nav ul li{
 }
 nav ul li a{
                text-decoration: none;
-               color: rgb(220, 220, 228);
+               color: rgb(15, 7, 240);
                font-size: 20px;
 }
 footer h2{
@@ -72,7 +72,7 @@ footer h2{
                
 }
 a:link{
-               color:rgb(18, 18, 190);
+               color:rgb(189, 189, 204);
 }
 a:visited{
                color: purple;
